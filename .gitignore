@@ -1,0 +1,15 @@
+# Nix build results
+result
+result-*
+
+# Nix development files
+.direnv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*~
+.*.swp
+.*.swo
