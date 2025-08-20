@@ -14,7 +14,7 @@ VERSION=$(./result/bin/cursor --version 2>/dev/null | head -1)
 echo "Built version: $VERSION"
 
 # Expected version
-EXPECTED="1.4.2"
+EXPECTED="1.4.5"
 if [[ "$VERSION" == "$EXPECTED" ]]; then
     echo "✅ Version check passed!"
 else

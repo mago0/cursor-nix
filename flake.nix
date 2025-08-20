@@ -1,5 +1,5 @@
 {
-  description = "Cursor AI-powered code editor - version 1.4.2";
+  description = "Cursor AI-powered code editor - version 1.4.5";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
